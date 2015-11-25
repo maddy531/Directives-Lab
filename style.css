@@ -1,0 +1,54 @@
+form{
+  background-color: #69D2E7;
+  height: 200px;
+  width: 25%;
+  margin-right: 0 auto;
+}
+
+nav {
+  background-color: #A7DBD8;
+  margin-bottom: 0 auto;
+}
+
+header{
+  background-color: #E0E4CD;
+  height: 70px;
+}
+
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: .2em 1em;
+  border-right: .1em solid black;
+}
+
+.righty{
+  position: absolute;
+  width: 25%;
+  padding: 10px;
+  position: absolute;
+  right: 0px;
+  padding: 10px;
+  margin-top: -.7em;
+}
+
+.rules{
+  background-color: #F38630;
+  height: 200px;
+  width: 25%;
+  margin-right: 0 auto;
+  display:
+  color: blue;
+  position: absolute;
+  right: 0px;
+  padding: 10px;
+  margin-top: 13.5em;
+}
+
+.redditPosts{
+  background-color: #FDFBFA;
+  height: 100px;
+  width: 75%;
+  border: .1em solid black;
+  margin-top: -.7em;
+}
